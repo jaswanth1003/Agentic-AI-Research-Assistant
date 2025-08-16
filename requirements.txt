@@ -1,0 +1,7 @@
+faiss-cpu
+PyPDF2
+langchain
+langchain-community
+langchain-nvidia-ai-endpoints
+gradio
+requests
