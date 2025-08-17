@@ -27,8 +27,9 @@ This project enables:
 
 Clone this repository and install dependencies:
 
-``git clone https://github.com/your-username/research-assistant.git
+```git clone https://github.com/your-username/research-assistant.git
 cd research-assistant
 
 # Install dependencies
-pip install faiss-cpu PyPDF2 langchain-nvidia-ai-endpoints langchain-community gradio requests``
+pip install faiss-cpu PyPDF2 langchain-nvidia-ai-endpoints langchain-community gradio requests 
+```
