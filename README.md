@@ -84,3 +84,21 @@ What are the limitations of this paper?
 what is the key role of small language models in the Agentic AI systems ?
 ```
 - Results are displayed based only on the uploaded document (with optional ArXiv lookup for related works).
+
+## **Tech Stack**
+
+- Python – Core language
+
+- LangChain – Orchestration for LLMs & embeddings
+
+- NVIDIA LLaMA 3.1 – Large Language Model (LLM) for summarization & Q/A
+
+- NVIDIA Embeddings – For semantic vector search
+
+- FAISS – Vector similarity search engine
+
+- PyPDF2 – PDF text extraction
+
+- Gradio – Web-based user interface
+
+- ArXiv API – Retrieve related academic papers
