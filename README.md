@@ -16,12 +16,12 @@ This project enables:
 
 ## **Features**
 
--PDF Reader – Extracts text from uploaded research papers.
--Embeddings + FAISS – Creates a searchable knowledge base of ingested papers.
--Citation Extractor – Parses reference sections to map citations.
--Summarization Agent – Generates structured summaries (title, authors, abstract, key findings, methods, results, limitations, conclusion).
--Web Lookup Agent – Searches related papers on ArXiv.
--Interactive Gradio App – Upload PDFs, get summaries, and ask questions.
+- PDF Reader – Extracts text from uploaded research papers.
+- Embeddings + FAISS – Creates a searchable knowledge base of ingested papers.
+- Citation Extractor – Parses reference sections to map citations.
+- Summarization Agent – Generates structured summaries (title, authors, abstract, key findings, methods, results, limitations, conclusion).
+- Web Lookup Agent – Searches related papers on ArXiv.
+- Interactive Gradio App – Upload PDFs, get summaries, and ask questions.
 
 ## **System Architecture**
 
