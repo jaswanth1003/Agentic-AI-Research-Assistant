@@ -75,15 +75,12 @@ python research_assistant.py
 
 ## **Example Workflow**
 
--Upload a research paper PDF (e.g., paper.pdf).
-
--The system extracts text, chunks it, and stores embeddings in FAISS.
-
--Click Generate Summary → Get a structured summary with sections like Title, Authors, Abstract, Key Findings, Methods, Results, Limitations, Conclusion.
-
--Switch to Ask Questions Tab → Ask questions like:
+- Upload a research paper PDF (e.g., paper.pdf).
+- The system extracts text, chunks it, and stores embeddings in FAISS.
+- Click Generate Summary → Get a structured summary with sections like Title, Authors, Abstract, Key Findings, Methods, Results, Limitations, Conclusion.
+- Switch to Ask Questions Tab → Ask questions like:
 ```
 What are the limitations of this paper?
 what is the key role of small language models in the Agentic AI systems ?
 ```
--Results are displayed based only on the uploaded document (with optional ArXiv lookup for related works).
+- Results are displayed based only on the uploaded document (with optional ArXiv lookup for related works).
