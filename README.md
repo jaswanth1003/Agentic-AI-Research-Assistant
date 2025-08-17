@@ -23,6 +23,11 @@ This project enables:
 -Web Lookup Agent – Searches related papers on ArXiv.
 -Interactive Gradio App – Upload PDFs, get summaries, and ask questions.
 
+## **System Architecture**
+
+<img width="1280" height="693" alt="image" src="https://github.com/user-attachments/assets/422c5a2b-0021-4950-945e-fb49ad69376d" />
+
+
 ## **Installation**
 
 Clone this repository and install dependencies:
