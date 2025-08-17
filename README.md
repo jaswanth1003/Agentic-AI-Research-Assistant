@@ -39,3 +39,12 @@ cd research-assistant
 # Install dependencies
 pip install faiss-cpu PyPDF2 langchain-nvidia-ai-endpoints langchain-community gradio requests 
 ```
+
+## **Setup**
+
+Get your NVIDIA API key from NVIDIA AI Endpoints.
+
+Add it to your environment:
+```
+export NVIDIA_API_KEY="your_api_key_here"
+```
