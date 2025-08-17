@@ -48,3 +48,39 @@ Add it to your environment:
 ```
 export NVIDIA_API_KEY="your_api_key_here"
 ```
+
+## **Usage**
+
+Run the assistant in two ways:
+
+1. Command Line Script
+
+```
+python research_assistant.py
+```
+
+-Ingests your uploaded PDF.
+-Generates a structured summary (title, abstract, methods, results, etc.).
+-Allows you to query the ingested paper.
+
+2️.Gradio Web App
+```
+python research_assistant.py
+```
+
+-Opens a browser interface.
+-Summarize Tab → Upload a PDF to get structured summaries.
+-Ask Questions Tab → Enter natural-language questions about the paper and get answers.
+
+
+## **Example Workflow**
+
+-Upload a research paper PDF (e.g., paper1.pdf).
+-The system extracts text, chunks it, and stores embeddings in FAISS.
+-Click Generate Summary → Get a structured summary with sections like Title, Authors, Abstract, Key Findings, Methods, Results, Limitations, Conclusion.
+-Switch to Ask Questions Tab → Ask questions like:
+
+What are the limitations of this paper?
+what is the key role of small language models in the Agentic AI systems ?
+
+-Results are displayed based only on the uploaded document (with optional ArXiv lookup for related works).
