@@ -103,7 +103,7 @@ what is the key role of small language models in the Agentic AI systems ?
 
 - ArXiv API – Retrieve related academic papers
 
-## ** Conclusion**
+## **Conclusion**
 
 The Agentic  AI Research Paper Assistant simplifies the way researchers and students interact with academic literature. By combining PDF ingestion, semantic search, citation extraction, and LLM-powered summarization, it provides an end-to-end workflow for quickly understanding and querying research papers.
 
