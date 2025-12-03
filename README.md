@@ -25,7 +25,8 @@ This project enables:
 
 ## **System Architecture**
 
-<img width="1280" height="693" alt="image" src="https://github.com/user-attachments/assets/422c5a2b-0021-4950-945e-fb49ad69376d" />
+<img width="848" height="1374" alt="image" src="https://github.com/user-attachments/assets/4577de07-6e15-4bd6-887c-5f485fc4370c" />
+
 
 
 ## **Installation**
